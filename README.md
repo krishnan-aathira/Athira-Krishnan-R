@@ -36,7 +36,7 @@ Previous work in web development (Personal):
 ---
 
 ## 🔹 Skills
-**Cybersecurity:** Wireshark, Windows Security, Wazuh, SIEM, Nmap, Vulnerability Assessment, JavaScript
+**Cybersecurity:** Wireshark, Windows Security, SIEM, Nmap, Vulnerability Assessment, JavaScript
 **Web Development:** JavaScript, Node.js, React, HTML5, CSS3, MongoDB, SQL, Docker, Kubernetes
 
 ---
