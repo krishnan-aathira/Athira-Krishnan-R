@@ -6,16 +6,16 @@ Career Shift: Web Development → Cybersecurity
 # Cybersecurity Projects
 Here are some hands-on cybersecurity projects I have worked on:
 
-1. Windows Event Log Monitoring (https://github.com/krishnan-aathira/windows-event-log-monitoring)  
+1. Windows Event Log Monitoring (https://github.com/krishnan-aathira/Windows_Event_Log_Monitoring)  
    *Objective:* Detect suspicious login attempts and privilege escalation in Windows systems.
 
-2. Wireshark Traffic Analysis (https://github.com/krishnan-aathira/wireshark-traffic-analysis)  
+2. Wireshark Traffic Analysis (https://github.com/krishnan-aathira/Wireshark_Traffic_Analysis)  
    *Objective:* Analyze network traffic to detect unusual or malicious activity.
 
-3. Windows Security Hardening (https://github.com/krishnan-aathira/windows-security-hardening)  
+3. Windows Security Hardening (https://github.com/krishnan-aathira/Windows_Security_Hardening)  
    *Objective:* Secure Windows systems through comprehensive built-in hardening measures.
 
-4. System Analysis Using Sysinternals (https://github.com/krishnan-aathira/system-analysis-sysinternals)  
+4. System Analysis Using Sysinternals (https://github.com/krishnan-aathira/System_Analysis_Sysinternals)  
    *Objective:* Perform system and registry analysis, monitor networks, and check file integrity to assess cybersecurity risks.
 
 ---
