@@ -1,46 +1,66 @@
-Hi, I'm Athira 
-Career Shift: Web Development → Cybersecurity
+# Hi, I'm Athira Krishnan 👋  
 
----
+## Cybersecurity Analyst | SOC Analyst | Web Developer | Security Enthusiast
+## Career Shift: Web Development → Cybersecurity
 
+I am a cybersecurity professional with a background in **web application development** and a growing specialization in **Security Operations, Threat Detection, and Defensive Security**.
+
+My development experience helps me understand applications, APIs, databases, and system behavior from an attacker and defender perspective which enabling me to identify vulnerabilities, analyze threats, and improve security posture.
+
+Currently focused on building hands-on skills in **SOC operations, incident response, network security, and security monitoring**.
+
+ 
 # Cybersecurity Projects
 Here are some hands-on cybersecurity projects I have worked on:
 
-1. Windows Event Log Monitoring (https://github.com/krishnan-aathira/Windows_Event_Log_Monitoring)  
+1. Security Event Monitoring and Threat Detection using Wazuh (https://github.com/krishnan-aathira/Wazuh)
+ *Objective:* Deployed and configured a Wazuh SIEM to collect, monitor, and analyze security logs, simulate attack scenarios to investigate alerts and create custom dashboards for threat visualization and monitoring.
+
+3. Windows Event Log Monitoring (https://github.com/krishnan-aathira/Windows_Event_Log_Monitoring)  
    *Objective:* Detect suspicious login attempts and privilege escalation in Windows systems.
 
-2. Wireshark Traffic Analysis (https://github.com/krishnan-aathira/Wireshark_Traffic_Analysis)  
+4. Wireshark Traffic Analysis (https://github.com/krishnan-aathira/Wireshark_Traffic_Analysis)  
    *Objective:* Analyze network traffic to detect unusual or malicious activity.
 
-3. Windows Security Hardening (https://github.com/krishnan-aathira/Windows_Security_Hardening)  
+5. Windows Security Hardening (https://github.com/krishnan-aathira/Windows_Security_Hardening)  
    *Objective:* Secure Windows systems through comprehensive built-in hardening measures.
 
-4. System Analysis Using Sysinternals (https://github.com/krishnan-aathira/System_Analysis_Sysinternals)  
+6. System Analysis Using Sysinternals (https://github.com/krishnan-aathira/System_Analysis_Sysinternals)  
    *Objective:* Perform system and registry analysis, monitor networks, and check file integrity to assess cybersecurity risks.
 
 ---
 
-## 🔹 Web Development Projects
-Previous work in web development (Personal):
+## 📜 Certifications
 
-1. Big Ticketing System
-    https://github.com/krishnan-aathira/ticketing
-    https://github.com/krishnan-aathira/common
-   *Technologies:* Node.js, Express, MongoDB, React
-
-2. Tourism Management
-    https://github.com/krishnan-aathira/Tourism_Frontend
-    https://github.com/krishnan-aathira/Tourism_Backend
-   *Technologies:* MERN Stack, JWT Authentication
+- EC-Council Certified SOC Analyst (C|SA)
+- CICSA - Certified Information Cyber Security Associate
 
 ---
 
-## 🔹 Skills
-**Cybersecurity:** Wireshark, Windows Security, SIEM, Nmap, Vulnerability Assessment, JavaScript
-**Web Development:** JavaScript, Node.js, React, HTML5, CSS3, MongoDB, SQL, Docker, Kubernetes
+## Cybersecurity Skills
+
+**Security Operations (SOC)** : Security Monitoring & Alert Analysis, Incident Response Fundamentals, Threat Detection & Investigation, Log Analysis
+**Network Security** : TCP/IP & Network Protocols, DNS, HTTP/HTTPS, Network Traffic Analysis, Firewall Concepts, IDS/IPS
+**Security Tools** : Splunk, Wireshark, Nmap, Wazuh, Burp Suite, TCP/IP, OSI Model
+**Vulnerability Assessment** : OWASP Top 10, API Security, Nmap
+**Operating Systems** : Windows, Linux
+**Security Frameworks** : NIST, MITRE ATT&CK, Cyber Kill Chain
+**Web Development** : JavaScript(ES6+) React.js, Node.js, REST API, MySQL, MongoDB
 
 ---
 
-## 🔹 Connect with Me
+## Career Focus
+
+I am actively seeking opportunities as:
+
+- SOC Analyst (L1)
+- Cybersecurity Analyst
+- Security Operations Analyst
+- Junior Threat Analyst
+- Vulnerability Analyst
+  
+---
+
+## Connect with Me
 - LinkedIn: https://www.linkedin.com/in/athira-krishnan-761b27169/ 
 - Email: athirakrishnan98rg@gmail.com
