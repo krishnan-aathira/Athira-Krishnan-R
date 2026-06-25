@@ -1,15 +1,15 @@
 # Hi, I'm Athira Krishnan 
 
-## Cybersecurity Analyst | SOC Analyst | Web Developer | Security Enthusiast
+## Cybersecurity Analyst | SOC Analyst | Security Enthusiast | Ex-Web Developer
 ## Career Shift: Web Development → Cybersecurity
 
-I am a cybersecurity professional with a background in **web application development** and a growing specialization in **Security Operations, Threat Detection, and Defensive Security**.
+I am a cybersecurity professional with a background in **web development** and a growing specialization in **Security Operations, Threat Detection, and Defensive Security**.
 
 My development experience helps me understand applications, APIs, databases, and system behavior from an attacker and defender perspective which enabling me to identify vulnerabilities, analyze threats, and improve security posture.
 
 Currently focused on building hands-on skills in **SOC operations, incident response, network security, and security monitoring**.
 
- 
+
 # Cybersecurity Projects
 Here are some hands-on cybersecurity projects I have worked on:
 
@@ -33,7 +33,7 @@ Here are some hands-on cybersecurity projects I have worked on:
 ## Certifications
 
 - EC-Council Certified SOC Analyst (C|SA)
-- CICSA - Certified Information Cyber Security Associate
+- Certified IT Infrastructure and Cyber SOC Analyst (CISCA) - RedTeam Hacker Academy
 
 ---
 
@@ -59,7 +59,8 @@ Here are some hands-on cybersecurity projects I have worked on:
 
 I am actively seeking opportunities as:
 
-- SOC Analyst (L1)
+- SOC Analyst
+- Blue Team Analyst
 - Cybersecurity Analyst
 - Security Operations Analyst
 - Junior Threat Analyst
