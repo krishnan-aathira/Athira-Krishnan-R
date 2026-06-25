@@ -1,4 +1,4 @@
-# Hi, I'm Athira Krishnan 👋  
+# Hi, I'm Athira Krishnan 
 
 ## Cybersecurity Analyst | SOC Analyst | Web Developer | Security Enthusiast
 ## Career Shift: Web Development → Cybersecurity
@@ -30,7 +30,7 @@ Here are some hands-on cybersecurity projects I have worked on:
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - EC-Council Certified SOC Analyst (C|SA)
 - CICSA - Certified Information Cyber Security Associate
