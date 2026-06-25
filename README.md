@@ -40,11 +40,17 @@ Here are some hands-on cybersecurity projects I have worked on:
 ## Cybersecurity Skills
 
 **Security Operations (SOC)** : Security Monitoring & Alert Analysis, Incident Response Fundamentals, Threat Detection & Investigation, Log Analysis
+
 **Network Security** : TCP/IP & Network Protocols, DNS, HTTP/HTTPS, Network Traffic Analysis, Firewall Concepts, IDS/IPS
+
 **Security Tools** : Splunk, Wireshark, Nmap, Wazuh, Burp Suite, TCP/IP, OSI Model
+
 **Vulnerability Assessment** : OWASP Top 10, API Security, Nmap
+
 **Operating Systems** : Windows, Linux
+
 **Security Frameworks** : NIST, MITRE ATT&CK, Cyber Kill Chain
+
 **Web Development** : JavaScript(ES6+) React.js, Node.js, REST API, MySQL, MongoDB
 
 ---
